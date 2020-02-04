@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Image-and-video-finder-with-PixaBay-API-and-React/static/css/main.796e9f3e.chunk.css",
+    "main.js": "/Image-and-video-finder-with-PixaBay-API-and-React/static/js/main.5a658ae4.chunk.js",
+    "main.js.map": "/Image-and-video-finder-with-PixaBay-API-and-React/static/js/main.5a658ae4.chunk.js.map",
+    "runtime-main.js": "/Image-and-video-finder-with-PixaBay-API-and-React/static/js/runtime-main.a5d2026f.js",
+    "runtime-main.js.map": "/Image-and-video-finder-with-PixaBay-API-and-React/static/js/runtime-main.a5d2026f.js.map",
+    "static/js/2.1e07ff71.chunk.js": "/Image-and-video-finder-with-PixaBay-API-and-React/static/js/2.1e07ff71.chunk.js",
+    "static/js/2.1e07ff71.chunk.js.map": "/Image-and-video-finder-with-PixaBay-API-and-React/static/js/2.1e07ff71.chunk.js.map",
+    "index.html": "/Image-and-video-finder-with-PixaBay-API-and-React/index.html",
+    "precache-manifest.edd809247ff0ec093df0c8c0f5ec8bf8.js": "/Image-and-video-finder-with-PixaBay-API-and-React/precache-manifest.edd809247ff0ec093df0c8c0f5ec8bf8.js",
+    "service-worker.js": "/Image-and-video-finder-with-PixaBay-API-and-React/service-worker.js",
+    "static/css/main.796e9f3e.chunk.css.map": "/Image-and-video-finder-with-PixaBay-API-and-React/static/css/main.796e9f3e.chunk.css.map",
+    "static/js/2.1e07ff71.chunk.js.LICENSE.txt": "/Image-and-video-finder-with-PixaBay-API-and-React/static/js/2.1e07ff71.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5d2026f.js",
+    "static/js/2.1e07ff71.chunk.js",
+    "static/css/main.796e9f3e.chunk.css",
+    "static/js/main.5a658ae4.chunk.js"
+  ]
+}
