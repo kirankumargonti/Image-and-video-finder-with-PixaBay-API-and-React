@@ -1,0 +1,83 @@
+.images-list {
+    width: 100%;
+    height: 100%;
+    background-color: aliceblue;
+    overflow: hidden;
+}
+
+.images-list .images-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    width: 100%;
+    height: 100%;
+    grid-gap: 1em;
+}
+
+.images-list .images-grid img,
+.images-list .images-grid video {
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+    cursor: pointer;
+    display: block;
+}
+
+.images-list .images-grid p{
+    bottom: 35px;
+    position: relative;
+    background-color: rgba(0, 0, 0, 0.315);
+    padding: 5px !important;
+    color: #ffffff;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.images-list .images-grid p .icons {
+    right: 0 !important;
+    position: absolute;
+    padding: 0 10px !important;
+}
+
+@media screen and (max-width: 576px) {
+    .images-list .images-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .banner {
+        height: 60vh;
+        text-align: center !important;
+    }
+
+    .banner .content {
+        height: 60vh;
+    }
+
+    .banner .content h1 {
+        font-size: 1.8rem !important;
+    }
+
+    .banner .content h4 {
+        font-size: 1.2rem !important;
+    }
+
+    .banner .content p {
+        font-size: 0.8rem !important;
+    }
+
+    form input,
+    select {
+        width: 17rem !important;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .images-list .images-grid p, .images-list .images-grid video p {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .images-list .images-grid p, .images-list .images-grid video p {
+        display: none;
+    }
+}
