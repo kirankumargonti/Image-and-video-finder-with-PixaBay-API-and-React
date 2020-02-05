@@ -11,7 +11,7 @@ class Home extends Component {
       searchText: '',
       amount: 20,
       apiUrl: 'https://pixabay.com/api',
-      apiKey: '8696251-859c2c91bcc63d7c54c60731b',
+      apiKey: 'Your pixabay API Key',
       images: [],
       videos: [],
       type: 'photo'
