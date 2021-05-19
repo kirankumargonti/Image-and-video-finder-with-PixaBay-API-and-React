@@ -13,7 +13,7 @@
     "react-icons": "^3.9.0",
     "react-scripts": "3.3.1"
   },
-  "homepage": "htpps://kirankumargonti.github.io/Image-and-video-finder-with-PixaBay-API-and-React",
+  "homepage": "https://kirankumargonti.github.io/Image-and-video-finder-with-PixaBay-API-and-React",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
